@@ -1,3 +1,7 @@
+This script works on Python2 , I havent tried on python3 yet....
+All Credit to Scott Lamb - Original Repo Link - https://github.com/scottlamb/hikvision-tftpd
+
+
 Setup the expected IP address:
 
     linux$ sudo ifconfig eth0:0 192.0.0.128
